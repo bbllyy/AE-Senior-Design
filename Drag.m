@@ -45,7 +45,7 @@ nu = mu/rho;
 V = 40*1.688;
 aoa_lo = 3;
 aoa_td = 3;
-aoa_cr = 0.5;
+aoa_cr = 0;
 Vstall = sqrt((2*W)/(rho*Sw*CLmax));
 
 [CL_lo,CD_lo] = DragBuildup(aoa_lo, 'PlaneInfo.mat');
