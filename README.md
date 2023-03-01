@@ -6,9 +6,9 @@ The codes present are the basis for our aerodynamic calculations
 ## Setting up Git in MATLAB
 1. In an **EMPTY** MATLAB folder, right click inside the folder browser 
 2. Navigate to "source control" and click "manage files" (seen in picture below)
-![Step1](https://imgur.com/skGyjZP)
+![Step1](https://i.imgur.com/skGyjZP.png)
 3. On the Github page you are reading this on, click the green code button and copy the link that is displayed (the HTTPS one)
-![Step2](https://imgur.com/9lW3jcB)
+![Step2](https://i.imgur.com/9lW3jcB.png)
 4. Paste the link into "repository path" in the MATLAB window seen below
 ![Step3](https://i.imgur.com/FeGlWyR.png)
 5. Click "Retrieve
