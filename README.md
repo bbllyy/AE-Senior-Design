@@ -10,7 +10,7 @@ The codes present are the basis for our aerodynamic calculations
 3. On the Github page you are reading this on, click the green code button and copy the link that is displayed (the HTTPS one)
 ![Step2](https://imgur.com/9lW3jcB)
 4. Paste the link into "repository path" in the MATLAB window seen below
-![Step3](https://imgur.com/FeGlWyR)
+![Step3](https://i.imgur.com/FeGlWyR.png)
 5. Click "Retrieve
 
 ## Drag Code
